@@ -103,4 +103,4 @@ INT-03  Bank matching    -> 314 matched (97%; rule 1: 289, rule 2: 25), 10 excep
 
 ---
 
-**Rushikesh Patil** · Technical Business Analyst · [GitHub](https://github.com/RushikeshPatil-BA)
+**Rushikesh Patil** · Technical Lead · [GitHub](https://github.com/RushikeshPatil-BA)
